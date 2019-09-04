@@ -1,5 +1,4 @@
 # Visualisation-story-on-crimes-in-Los-Angeles
-Data Visualization project on Crime in Los Angeles 
 # Table of Contents
 * [About the Project](#about-the-project)
   * [Introduction](#introduction)
