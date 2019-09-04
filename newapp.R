@@ -1,5 +1,4 @@
 # Please Set Path Accordingly!!
-setwd("C:/Users/gupta/Desktop/FIT5147 Data Exploration and Visualisation/vis project")
 
 # Importing Required Libraries
 library(shiny)
