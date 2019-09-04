@@ -24,7 +24,7 @@ The intended audience for this project was Los Angeles Police Department (LAPD) 
 * [ R Studio ](https://www.rstudio.com/products/rstudio/download/)
 ## Prerequisites
 Install following packages using command: install.packages("package name")
-* shiny
+* <b> shiny </b> : For implementing shiny app
 * plotly
 * dplyr
 * shinydashboard
