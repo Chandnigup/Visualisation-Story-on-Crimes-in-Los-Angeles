@@ -19,4 +19,4 @@ The intended audience for this project was Los Angeles Police Department (LAPD) 
 * It would help in analysing increasing and decreasing trend in crime and arrest rate over the period.
 # Getting Started
 ## Built With
-[ R Studio ] (https://www.rstudio.com/products/rstudio/download/)
+* [ R Studio ]: (https://www.rstudio.com/products/rstudio/download/)
