@@ -7,6 +7,7 @@ Data Visualization project on Crime in Los Angeles
 * Getting Started
   * Built With
   * Prerequisites
+* References
 # About the Project
 ## Introduction
 The crime dataset has been taken for visualization such that number of crimes can be observed using various factors. Supporting dataset of Arrest was also taken to provide deep insights using visualized graphs. The aim for creating different visualizations was to study the crime and arrest data using various useful attributes like time, date, crime type, longitude, latitude and area which helped in visualizing deeply on various factors. Through this visualization, variations in crime rate in Los Angeles can be seen and compared with arrest rate for the same time.
@@ -22,4 +23,17 @@ The intended audience for this project was Los Angeles Police Department (LAPD) 
 ## Built With
 * [ R Studio ](https://www.rstudio.com/products/rstudio/download/)
 ## Prerequisites
-
+Install following packages using command: install.packages("package name")
+* shiny
+* plotly
+* dplyr
+* shinydashboard
+* leaflet
+* xts
+* dygraphs
+* rsconnect
+# References
+* Bar Charts. (2018). Retrieved from https://plot.ly/r/bar-charts/
+* Leaflet Map with Customized Popup. (2018). Retrieved from http://bl.ocks.org/uafrazier/d589caa322f1b1e7c651
+* addLegend function | R Documentation. (2018). Retrieved from https://www.rdocumentation.org/packages/leaflet/versions/2.0.0/topics/addLegend
+* Shiny - sliderInput. (2018). Retrieved from https://shiny.rstudio.com/reference/shiny/1.0.0/sliderInput.html
