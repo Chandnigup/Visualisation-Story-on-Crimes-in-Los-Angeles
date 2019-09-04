@@ -1,13 +1,13 @@
 # Visualisation-story-on-crimes-in-Los-Angeles
 Data Visualization project on Crime in Los Angeles 
 # Table of Contents
-* About the Project
+* [About the Project](#about-the-project)
   * [Introduction](#introduction)
-  * Audience
-* Getting Started
-  * Built With
-  * Prerequisites
-* References
+  * [Audience](#audience)
+* [Getting Started](#getting-started)
+  * [Built With](#built-with)
+  * [Prerequisites](#prerequisites)
+* [References](#references)
 # About the Project
 ## Introduction
 The crime dataset has been taken for visualization such that number of crimes can be observed using various factors. Supporting dataset of Arrest was also taken to provide deep insights using visualized graphs. The aim for creating different visualizations was to study the crime and arrest data using various useful attributes like time, date, crime type, longitude, latitude and area which helped in visualizing deeply on various factors. Through this visualization, variations in crime rate in Los Angeles can be seen and compared with arrest rate for the same time.
