@@ -2,7 +2,7 @@
 Data Visualization project on Crime in Los Angeles 
 # Table of Contents
 * About the Project
-  * Introduction
+  * [Introduction](#introduction)
   * Audience
 * Getting Started
   * Built With
