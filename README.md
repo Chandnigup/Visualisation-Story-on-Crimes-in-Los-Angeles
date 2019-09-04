@@ -25,13 +25,13 @@ The intended audience for this project was Los Angeles Police Department (LAPD) 
 ## Prerequisites
 Install following packages using command: install.packages("package name")
 * <b> shiny </b> : For implementing shiny app
-* plotly
-* dplyr
-* shinydashboard
-* leaflet
-* xts
-* dygraphs
-* rsconnect
+* <b> plotly </b> : For plotting bar graphs and donut pie charts
+* <b> dplyr </b> : For using groupby function
+* <b> shinydashboard </b> : For creating dashboard
+* <b> leaflet </b> : For implementing leaflet plot
+* <b> xts </b> : For time series
+* <b> dygraphs </b> : For plotting time series graph
+* <b> rsconnect </b> : An R package used for deploying applications to the ShinyApps hosted service, or to RStudio Connect
 # References
 * Bar Charts. (2018). Retrieved from https://plot.ly/r/bar-charts/
 * Leaflet Map with Customized Popup. (2018). Retrieved from http://bl.ocks.org/uafrazier/d589caa322f1b1e7c651
